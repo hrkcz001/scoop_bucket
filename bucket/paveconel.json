@@ -1,5 +1,5 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Direct embedded-controller fan control for HP Pavilion Gaming 15-ec1xxx laptops.",
     "homepage": "https://github.com/hrkcz001/paveconel",
     "license": "Apache-2.0",
@@ -11,8 +11,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hrkcz001/paveconel/releases/download/v0.1.1/paveconel-0.1.1-windows-x64.zip",
-            "hash": "f918b28f07ff0716eb82a3f585230c1ed45e2cafbea317b307e0f25dbf4b2c25"
+            "url": "https://github.com/hrkcz001/paveconel/releases/download/v0.1.2/paveconel-0.1.2-windows-x64.zip",
+            "hash": "97c8895dfd87e436578b4cdb194f25347805c79855afe851442da4109fe3c1bd"
         }
     },
     "bin": "paveconel.exe",
